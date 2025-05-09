@@ -1,16 +1,4 @@
 # GleanLens Full Project
 
-A full-stack demo for transparent, feedback-driven AI-powered enterprise search.
+Feedback-driven semantic search system. Here's a 5-minute demo: https://www.loom.com/share/cd9de190b3674ae3b36a52295f5657d4?sid=1324da24-fe78-4f1a-9a67-59c2d4e6b5e9
 
-## Quick Start
-
-1. Copy `.env.example` to `.env` and set your OpenAI API key.
-2. Install dependencies: `npm install`
-3. Start both services: `npm run dev`
-4. Open http://localhost:3000 in your browser.
-
-## Project Structure
-
-- **backend/**: Express API (Node.js)
-- **frontend/**: React + Vite (TypeScript)
-- **python/**: Embedding and rerank scripts
