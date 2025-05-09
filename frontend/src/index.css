@@ -1,0 +1,189 @@
+/* frontend/src/index.css */
+
+/* ────────── Theme Variables ────────── */
+:root {
+  --color-bg: #F3F0FF;            /* very light lavender */
+  --color-surface: #FFFFFF;       /* cards & panels */
+  --color-primary: #4F46E5;       /* indigo-600 */
+  --color-primary-light: #EEF2FF; /* light indigo for highlights */
+  --color-accent: #7C3AED;        /* purple-600 */
+  --color-border: #E0E7FF;        /* soft indigo border */
+  --color-text: #1F2937;          /* gray-800 */
+  --color-text-muted: #6B7280;    /* gray-500 */
+  --color-tag-bg: #E0E7FF;        /* indigo-100 */
+  --color-tag-text: #4F46E5;      /* indigo-600 */
+}
+
+/* ────────── Global Resets ────────── */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.5;
+  background: var(--color-bg);
+  color: var(--color-text);
+  min-height: 100vh;
+}
+
+/* ────────── Header ────────── */
+header {
+  background: var(--color-primary);
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header .logo {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #fff;
+  text-decoration: none;
+}
+header nav a {
+  margin-left: 1.5rem;
+  font-weight: 500;
+  color: rgba(255,255,255,0.75);
+  text-decoration: none;
+  transition: color .2s;
+}
+header nav a:hover {
+  color: #fff;
+}
+
+/* ────────── Search Container ────────── */
+.search-container {
+  max-width: 640px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+}
+.search-container input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border: 2px solid var(--color-border);
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color .2s, box-shadow .2s;
+}
+.search-container input:focus {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(124,58,237,0.2);
+  background: #fff;
+}
+.search-container button {
+  margin-top: 0.75rem;
+  padding: 0.75rem 1.25rem;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fff;
+  background: var(--color-accent);
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background .2s, transform .1s;
+}
+.search-container button:hover {
+  background: #6D28D9;
+  transform: translateY(-1px);
+}
+
+/* ────────── Result Card ────────── */
+.result-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 0.75rem;
+  padding: 1.25rem 1.5rem;
+  margin: 1rem auto;
+  max-width: 640px;
+  transition: box-shadow .2s;
+}
+.result-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+}
+.result-card h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+  color: var(--color-text);
+}
+.result-card p {
+  color: var(--color-text-muted);
+  margin-bottom: 0.75rem;
+}
+.result-card small {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--color-text-muted);
+  font-size: 0.875rem;
+}
+.result-card .tags {
+  margin-bottom: 0.75rem;
+}
+.result-card .tag {
+  display: inline-block;
+  background: var(--color-tag-bg);
+  color: var(--color-tag-text);
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  border-radius: 0.375rem;
+  font-size: 0.75rem;
+}
+.result-card button {
+  background: transparent;
+  border: none;
+  font-size: 1.25rem;
+  cursor: pointer;
+  margin-right: 0.5rem;
+  transition: transform .1s;
+}
+.result-card button:hover {
+  transform: scale(1.2);
+}
+
+/* ────────── Trace Visualizer ────────── */
+.trace-visualizer {
+  background: var(--color-primary-light);
+  border: 1px solid var(--color-border);
+  border-radius: 0.75rem;
+  padding: 1rem 1.5rem;
+  max-width: 640px;
+  margin: 1.5rem auto;
+}
+.trace-visualizer h4 {
+  margin-bottom: 0.5rem;
+  color: var(--color-text);
+}
+.trace-visualizer pre {
+  background: #F3F4F6;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+  font-size: 0.875rem;
+  color: var(--color-text);
+}
+
+/* ────────── Logs Table ────────── */
+table {
+  width: 100%;
+  max-width: 800px;
+  margin: 2rem auto;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--color-border);
+  text-align: left;
+}
+th {
+  background: var(--color-primary-light);
+  color: var(--color-text);
+  font-weight: 500;
+}
+td {
+  color: var(--color-text-muted);
+}
+
+/* ────────── Utility Classes ────────── */
+.page {
+  padding: 0 1rem;
+  max-width: 800px;
+  margin: 2rem auto;
+}

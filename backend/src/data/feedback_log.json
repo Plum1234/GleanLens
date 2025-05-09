@@ -1,0 +1,362 @@
+[
+  {
+    "query": "test",
+    "docId": "doc-001",
+    "feedback": "up",
+    "timestamp": 1746779492102
+  },
+  {
+    "query": "test",
+    "docId": "doc-001",
+    "feedback": "up",
+    "timestamp": 1746779493004
+  },
+  {
+    "query": "test",
+    "docId": "doc-001",
+    "feedback": "up",
+    "timestamp": 1746779493236
+  },
+  {
+    "query": "test",
+    "docId": "doc-001",
+    "feedback": "down",
+    "timestamp": 1746779493800
+  },
+  {
+    "query": "test",
+    "docId": "doc-001",
+    "feedback": "down",
+    "timestamp": 1746779503332
+  },
+  {
+    "query": "test",
+    "docId": "doc-005",
+    "feedback": "down",
+    "timestamp": 1746779506986
+  },
+  {
+    "query": "test",
+    "docId": "doc-005",
+    "feedback": "up",
+    "timestamp": 1746779510015
+  },
+  {
+    "query": "test",
+    "docId": "doc-005",
+    "feedback": "up",
+    "timestamp": 1746779510238
+  },
+  {
+    "query": "math",
+    "docId": "doc-094",
+    "feedback": "up",
+    "timestamp": 1746780478454
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "down",
+    "timestamp": 1746780601450
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "up",
+    "timestamp": 1746780606061
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "down",
+    "timestamp": 1746780606693
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "up",
+    "timestamp": 1746780607129
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "down",
+    "timestamp": 1746780607523
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "down",
+    "timestamp": 1746780607854
+  },
+  {
+    "query": "math",
+    "docId": "doc-066",
+    "feedback": "up",
+    "timestamp": 1746780620800
+  },
+  {
+    "query": "math",
+    "docId": "doc-066",
+    "feedback": "down",
+    "timestamp": 1746780621192
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "down",
+    "timestamp": 1746780981592
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "down",
+    "timestamp": 1746780987572
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "down",
+    "timestamp": 1746780987755
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "down",
+    "timestamp": 1746780987936
+  },
+  {
+    "query": "math",
+    "docId": "doc-004",
+    "feedback": "up",
+    "timestamp": 1746780996548
+  },
+  {
+    "query": "math",
+    "docId": "doc-004",
+    "feedback": "up",
+    "timestamp": 1746780996877
+  },
+  {
+    "query": "math",
+    "docId": "doc-004",
+    "feedback": "up",
+    "timestamp": 1746780997283
+  },
+  {
+    "query": "math",
+    "docId": "doc-004",
+    "feedback": "up",
+    "timestamp": 1746780997718
+  },
+  {
+    "query": "reading",
+    "docId": "doc-004",
+    "feedback": "down",
+    "timestamp": 1746781025157
+  },
+  {
+    "query": "reading",
+    "docId": "doc-004",
+    "feedback": "down",
+    "timestamp": 1746781026895
+  },
+  {
+    "query": "reading",
+    "docId": "doc-004",
+    "feedback": "up",
+    "timestamp": 1746781029280
+  },
+  {
+    "query": "reading",
+    "docId": "doc-004",
+    "feedback": "down",
+    "timestamp": 1746781029718
+  },
+  {
+    "query": "reading",
+    "docId": "doc-004",
+    "feedback": "down",
+    "timestamp": 1746781033915
+  },
+  {
+    "query": "reading",
+    "docId": "doc-004",
+    "feedback": "down",
+    "timestamp": 1746781042134
+  },
+  {
+    "query": "history",
+    "docId": "doc-001",
+    "feedback": "up",
+    "timestamp": 1746781054509
+  },
+  {
+    "query": "history",
+    "docId": "doc-001",
+    "feedback": "up",
+    "timestamp": 1746781058673
+  },
+  {
+    "query": "history",
+    "docId": "doc-047",
+    "feedback": "up",
+    "timestamp": 1746781071742
+  },
+  {
+    "query": "history",
+    "docId": "doc-047",
+    "feedback": "up",
+    "timestamp": 1746781072027
+  },
+  {
+    "query": "history",
+    "docId": "doc-047",
+    "feedback": "up",
+    "timestamp": 1746781072155
+  },
+  {
+    "query": "history",
+    "docId": "doc-047",
+    "feedback": "up",
+    "timestamp": 1746781072288
+  },
+  {
+    "query": "history",
+    "docId": "doc-047",
+    "feedback": "up",
+    "timestamp": 1746781072409
+  },
+  {
+    "query": "history",
+    "docId": "doc-047",
+    "feedback": "up",
+    "timestamp": 1746781072530
+  },
+  {
+    "query": "history",
+    "docId": "doc-047",
+    "feedback": "up",
+    "timestamp": 1746781072675
+  },
+  {
+    "query": "history",
+    "docId": "doc-047",
+    "feedback": "up",
+    "timestamp": 1746781072815
+  },
+  {
+    "query": "test",
+    "docId": "doc-047",
+    "feedback": "up",
+    "timestamp": 1746781269326
+  },
+  {
+    "query": "math",
+    "docId": "doc-047",
+    "feedback": "down",
+    "timestamp": 1746785393072
+  },
+  {
+    "query": "math",
+    "docId": "doc-047",
+    "feedback": "down",
+    "timestamp": 1746785393289
+  },
+  {
+    "query": "math",
+    "docId": "doc-047",
+    "feedback": "down",
+    "timestamp": 1746785393691
+  },
+  {
+    "query": "math",
+    "docId": "doc-047",
+    "feedback": "down",
+    "timestamp": 1746785393814
+  },
+  {
+    "query": "math",
+    "docId": "doc-047",
+    "feedback": "down",
+    "timestamp": 1746785394071
+  },
+  {
+    "query": "math",
+    "docId": "doc-047",
+    "feedback": "down",
+    "timestamp": 1746785394325
+  },
+  {
+    "query": "math",
+    "docId": "doc-047",
+    "feedback": "down",
+    "timestamp": 1746785394448
+  },
+  {
+    "query": "math",
+    "docId": "doc-047",
+    "feedback": "down",
+    "timestamp": 1746785394705
+  },
+  {
+    "query": "math",
+    "docId": "doc-047",
+    "feedback": "down",
+    "timestamp": 1746785395009
+  },
+  {
+    "query": "math",
+    "docId": "doc-001",
+    "feedback": "down",
+    "timestamp": 1746785395733
+  },
+  {
+    "query": "math",
+    "docId": "doc-001",
+    "feedback": "down",
+    "timestamp": 1746785396027
+  },
+  {
+    "query": "math",
+    "docId": "doc-001",
+    "feedback": "down",
+    "timestamp": 1746785396308
+  },
+  {
+    "query": "math",
+    "docId": "doc-001",
+    "feedback": "down",
+    "timestamp": 1746785396594
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "up",
+    "timestamp": 1746785463089
+  },
+  {
+    "query": "math",
+    "docId": "doc-042",
+    "feedback": "up",
+    "timestamp": 1746786008043
+  },
+  {
+    "query": "math",
+    "docId": "doc-094",
+    "feedback": "up",
+    "timestamp": 1746786334640
+  },
+  {
+    "query": "math",
+    "docId": "doc-094",
+    "feedback": "up",
+    "timestamp": 1746787457376
+  },
+  {
+    "query": "math",
+    "docId": "doc-094",
+    "feedback": "down",
+    "timestamp": 1746832673094
+  }
+]

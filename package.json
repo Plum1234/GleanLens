@@ -1,0 +1,21 @@
+{
+  "name": "gleanlens",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend",
+    "python"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm:dev:backend\" \"npm:dev:frontend\"",
+    "dev:backend": "npm --workspace backend run dev",
+    "dev:frontend": "npm --workspace frontend run dev"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "openai": "^4.97.0"
+  }
+}

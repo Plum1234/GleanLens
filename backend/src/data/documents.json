@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "doc-001",
+    "title": "Art Lecture Notes: Art History Overview",
+    "snippet": "Art History Overview provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-08-01T10:55:59Z",
+    "tags": [
+      "art",
+      "lecture-notes"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-002",
+    "title": "Art Reading Material: Digital Illustration",
+    "snippet": "Digital Illustration provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-07-15T10:55:59Z",
+    "tags": [
+      "art",
+      "reading-material"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-003",
+    "title": "Art Lab Report: Sculpture Methods",
+    "snippet": "Sculpture Methods provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-11-15T10:55:59Z",
+    "tags": [
+      "art",
+      "lab-report"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-004",
+    "title": "Mathematics Reading Material: Quadratic Equations",
+    "snippet": "Quadratic Equations provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2025-02-17T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "reading-material"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-005",
+    "title": "History Syllabus: Ancient Civilizations",
+    "snippet": "Ancient Civilizations provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-09-01T10:55:59Z",
+    "tags": [
+      "history",
+      "syllabus"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-006",
+    "title": "History Study Guide: American Revolution",
+    "snippet": "American Revolution provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2025-01-26T10:55:59Z",
+    "tags": [
+      "history",
+      "study-guide"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-007",
+    "title": "English Lecture Notes: Essay Writing Techniques",
+    "snippet": "Essay Writing Techniques provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2024-05-28T10:55:59Z",
+    "tags": [
+      "english",
+      "lecture-notes"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-008",
+    "title": "Science Lab Report: Astronomy Basics",
+    "snippet": "Astronomy Basics provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2025-04-16T10:55:59Z",
+    "tags": [
+      "science",
+      "lab-report"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-009",
+    "title": "Art Reading Material: Renaissance Art",
+    "snippet": "Renaissance Art provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-09-25T10:55:59Z",
+    "tags": [
+      "art",
+      "reading-material"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-010",
+    "title": "History Assignment: American Revolution",
+    "snippet": "American Revolution provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-03-21T10:55:59Z",
+    "tags": [
+      "history",
+      "assignment"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-011",
+    "title": "Mathematics Exam Review: Linear Algebra",
+    "snippet": "Linear Algebra provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-10-12T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "exam-review"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-012",
+    "title": "Science Assignment: Chemical Reactions",
+    "snippet": "Chemical Reactions provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-12-22T10:55:59Z",
+    "tags": [
+      "science",
+      "assignment"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-013",
+    "title": "English Lecture Notes: Modern Fiction",
+    "snippet": "Modern Fiction provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-12-23T10:55:59Z",
+    "tags": [
+      "english",
+      "lecture-notes"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-014",
+    "title": "English Lecture Notes: Modern Fiction",
+    "snippet": "Modern Fiction provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2025-01-30T10:55:59Z",
+    "tags": [
+      "english",
+      "lecture-notes"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-015",
+    "title": "Science Study Guide: Newton's Laws",
+    "snippet": "Newton's Laws provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-07-05T10:55:59Z",
+    "tags": [
+      "science",
+      "study-guide"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-016",
+    "title": "Mathematics Syllabus: Calculus I",
+    "snippet": "Calculus I provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-02-06T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "syllabus"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-017",
+    "title": "Art Lecture Notes: Digital Illustration",
+    "snippet": "Digital Illustration provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-09-28T10:55:59Z",
+    "tags": [
+      "art",
+      "lecture-notes"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-018",
+    "title": "Art Exam Review: Digital Illustration",
+    "snippet": "Digital Illustration provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2025-03-01T10:55:59Z",
+    "tags": [
+      "art",
+      "exam-review"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-019",
+    "title": "English Syllabus: Essay Writing Techniques",
+    "snippet": "Essay Writing Techniques provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2025-02-16T10:55:59Z",
+    "tags": [
+      "english",
+      "syllabus"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-020",
+    "title": "Art Project Brief: Sculpture Methods",
+    "snippet": "Sculpture Methods provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2025-04-27T10:55:59Z",
+    "tags": [
+      "art",
+      "project-brief"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-021",
+    "title": "History Lab Report: Industrial Revolution",
+    "snippet": "Industrial Revolution provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2025-04-11T10:55:59Z",
+    "tags": [
+      "history",
+      "lab-report"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-022",
+    "title": "Art Study Guide: Renaissance Art",
+    "snippet": "Renaissance Art provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-07-27T10:55:59Z",
+    "tags": [
+      "art",
+      "study-guide"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-023",
+    "title": "History Lab Report: American Revolution",
+    "snippet": "American Revolution provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-10-01T10:55:59Z",
+    "tags": [
+      "history",
+      "lab-report"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-024",
+    "title": "Mathematics Assignment: Calculus I",
+    "snippet": "Calculus I provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-10-13T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "assignment"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-025",
+    "title": "History Lecture Notes: American Revolution",
+    "snippet": "American Revolution provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-10-25T10:55:59Z",
+    "tags": [
+      "history",
+      "lecture-notes"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-026",
+    "title": "Art Syllabus: Sculpture Methods",
+    "snippet": "Sculpture Methods provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2025-02-22T10:55:59Z",
+    "tags": [
+      "art",
+      "syllabus"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-027",
+    "title": "Mathematics Syllabus: Calculus I",
+    "snippet": "Calculus I provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Wilson",
+    "lastModified": "2024-08-01T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "syllabus"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-028",
+    "title": "English Exam Review: Shakespeare's Macbeth",
+    "snippet": "Shakespeare's Macbeth provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-08-08T10:55:59Z",
+    "tags": [
+      "english",
+      "exam-review"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-029",
+    "title": "Science Exam Review: Newton's Laws",
+    "snippet": "Newton's Laws provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-09-18T10:55:59Z",
+    "tags": [
+      "science",
+      "exam-review"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-030",
+    "title": "English Syllabus: Essay Writing Techniques",
+    "snippet": "Essay Writing Techniques provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-05-01T10:55:59Z",
+    "tags": [
+      "english",
+      "syllabus"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-031",
+    "title": "History Study Guide: Cold War",
+    "snippet": "Cold War provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2025-04-11T10:55:59Z",
+    "tags": [
+      "history",
+      "study-guide"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-032",
+    "title": "Art Lecture Notes: Digital Illustration",
+    "snippet": "Digital Illustration provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-07-31T10:55:59Z",
+    "tags": [
+      "art",
+      "lecture-notes"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-033",
+    "title": "English Study Guide: Poetry Analysis",
+    "snippet": "Poetry Analysis provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-11-11T10:55:59Z",
+    "tags": [
+      "english",
+      "study-guide"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-034",
+    "title": "History Reading Material: Ancient Civilizations",
+    "snippet": "Ancient Civilizations provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-01-19T10:55:59Z",
+    "tags": [
+      "history",
+      "reading-material"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-035",
+    "title": "English Homework: Grammar Essentials",
+    "snippet": "Grammar Essentials provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2025-03-12T10:55:59Z",
+    "tags": [
+      "english",
+      "homework"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-036",
+    "title": "History Syllabus: American Revolution",
+    "snippet": "American Revolution provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-06-18T10:55:59Z",
+    "tags": [
+      "history",
+      "syllabus"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-037",
+    "title": "English Assignment: Modern Fiction",
+    "snippet": "Modern Fiction provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-07-24T10:55:59Z",
+    "tags": [
+      "english",
+      "assignment"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-038",
+    "title": "English Lab Report: Essay Writing Techniques",
+    "snippet": "Essay Writing Techniques provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-11-12T10:55:59Z",
+    "tags": [
+      "english",
+      "lab-report"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-039",
+    "title": "Science Project Brief: Ecosystems",
+    "snippet": "Ecosystems provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-05-14T10:55:59Z",
+    "tags": [
+      "science",
+      "project-brief"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-040",
+    "title": "Art Reading Material: Renaissance Art",
+    "snippet": "Renaissance Art provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2025-03-22T10:55:59Z",
+    "tags": [
+      "art",
+      "reading-material"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-041",
+    "title": "Mathematics Project Brief: Geometry",
+    "snippet": "Geometry provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-09-24T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "project-brief"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-042",
+    "title": "Mathematics Project Brief: Geometry",
+    "snippet": "Geometry provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-05-08T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "project-brief"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-043",
+    "title": "Mathematics Lecture Notes: Probability and Statistics",
+    "snippet": "Probability and Statistics provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-07-03T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "lecture-notes"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-044",
+    "title": "Science Syllabus: Astronomy Basics",
+    "snippet": "Astronomy Basics provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-06-01T10:55:59Z",
+    "tags": [
+      "science",
+      "syllabus"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-045",
+    "title": "Art Assignment: Color Theory",
+    "snippet": "Color Theory provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-10-15T10:55:59Z",
+    "tags": [
+      "art",
+      "assignment"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-046",
+    "title": "English Study Guide: Shakespeare's Macbeth",
+    "snippet": "Shakespeare's Macbeth provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-12-30T10:55:59Z",
+    "tags": [
+      "english",
+      "study-guide"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-047",
+    "title": "Art Lab Report: Art History Overview",
+    "snippet": "Art History Overview provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2025-04-23T10:55:59Z",
+    "tags": [
+      "art",
+      "lab-report"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-048",
+    "title": "English Reading Material: Shakespeare's Macbeth",
+    "snippet": "Shakespeare's Macbeth provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2024-10-22T10:55:59Z",
+    "tags": [
+      "english",
+      "reading-material"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-049",
+    "title": "Mathematics Homework: Calculus I",
+    "snippet": "Calculus I provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-08-06T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "homework"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-050",
+    "title": "Science Lecture Notes: Chemical Reactions",
+    "snippet": "Chemical Reactions provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Wilson",
+    "lastModified": "2024-12-28T10:55:59Z",
+    "tags": [
+      "science",
+      "lecture-notes"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-051",
+    "title": "English Project Brief: Modern Fiction",
+    "snippet": "Modern Fiction provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-08-23T10:55:59Z",
+    "tags": [
+      "english",
+      "project-brief"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-052",
+    "title": "Science Project Brief: Cell Structure",
+    "snippet": "Cell Structure provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-11-02T10:55:59Z",
+    "tags": [
+      "science",
+      "project-brief"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-053",
+    "title": "History Lab Report: Ancient Civilizations",
+    "snippet": "Ancient Civilizations provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-09-12T10:55:59Z",
+    "tags": [
+      "history",
+      "lab-report"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-054",
+    "title": "Mathematics Lab Report: Calculus I",
+    "snippet": "Calculus I provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2024-06-20T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "lab-report"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-055",
+    "title": "English Assignment: Grammar Essentials",
+    "snippet": "Grammar Essentials provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Wilson",
+    "lastModified": "2025-04-15T10:55:59Z",
+    "tags": [
+      "english",
+      "assignment"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-056",
+    "title": "Mathematics Homework: Linear Algebra",
+    "snippet": "Linear Algebra provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2025-03-26T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "homework"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-057",
+    "title": "English Assignment: Poetry Analysis",
+    "snippet": "Poetry Analysis provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2025-01-31T10:55:59Z",
+    "tags": [
+      "english",
+      "assignment"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-058",
+    "title": "Mathematics Exam Review: Linear Algebra",
+    "snippet": "Linear Algebra provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-03-14T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "exam-review"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-059",
+    "title": "Art Reading Material: Renaissance Art",
+    "snippet": "Renaissance Art provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-05-31T10:55:59Z",
+    "tags": [
+      "art",
+      "reading-material"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-060",
+    "title": "English Reading Material: Grammar Essentials",
+    "snippet": "Grammar Essentials provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2024-12-27T10:55:59Z",
+    "tags": [
+      "english",
+      "reading-material"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-061",
+    "title": "Art Lab Report: Renaissance Art",
+    "snippet": "Renaissance Art provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-04-02T10:55:59Z",
+    "tags": [
+      "art",
+      "lab-report"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-062",
+    "title": "Science Exam Review: Chemical Reactions",
+    "snippet": "Chemical Reactions provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2024-08-03T10:55:59Z",
+    "tags": [
+      "science",
+      "exam-review"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-063",
+    "title": "Art Project Brief: Color Theory",
+    "snippet": "Color Theory provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2025-02-04T10:55:59Z",
+    "tags": [
+      "art",
+      "project-brief"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-064",
+    "title": "History Lab Report: American Revolution",
+    "snippet": "American Revolution provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-09-26T10:55:59Z",
+    "tags": [
+      "history",
+      "lab-report"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-065",
+    "title": "English Reading Material: Shakespeare's Macbeth",
+    "snippet": "Shakespeare's Macbeth provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2025-03-26T10:55:59Z",
+    "tags": [
+      "english",
+      "reading-material"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-066",
+    "title": "Mathematics Exam Review: Geometry",
+    "snippet": "Geometry provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2025-01-16T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "exam-review"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-067",
+    "title": "English Project Brief: Essay Writing Techniques",
+    "snippet": "Essay Writing Techniques provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2025-04-09T10:55:59Z",
+    "tags": [
+      "english",
+      "project-brief"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-068",
+    "title": "Art Lab Report: Color Theory",
+    "snippet": "Color Theory provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-08-07T10:55:59Z",
+    "tags": [
+      "art",
+      "lab-report"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-069",
+    "title": "History Exam Review: World War II",
+    "snippet": "World War II provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-07-05T10:55:59Z",
+    "tags": [
+      "history",
+      "exam-review"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-070",
+    "title": "Mathematics Exam Review: Probability and Statistics",
+    "snippet": "Probability and Statistics provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2024-10-04T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "exam-review"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-071",
+    "title": "Science Study Guide: Newton's Laws",
+    "snippet": "Newton's Laws provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-12-28T10:55:59Z",
+    "tags": [
+      "science",
+      "study-guide"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-072",
+    "title": "Mathematics Exam Review: Geometry",
+    "snippet": "Geometry provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-05-13T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "exam-review"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-073",
+    "title": "Science Syllabus: Newton's Laws",
+    "snippet": "Newton's Laws provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-07-12T10:55:59Z",
+    "tags": [
+      "science",
+      "syllabus"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-074",
+    "title": "Art Assignment: Renaissance Art",
+    "snippet": "Renaissance Art provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-05-22T10:55:59Z",
+    "tags": [
+      "art",
+      "assignment"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-075",
+    "title": "Science Lab Report: Ecosystems",
+    "snippet": "Ecosystems provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-02-12T10:55:59Z",
+    "tags": [
+      "science",
+      "lab-report"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-076",
+    "title": "Art Project Brief: Sculpture Methods",
+    "snippet": "Sculpture Methods provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-01-14T10:55:59Z",
+    "tags": [
+      "art",
+      "project-brief"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-077",
+    "title": "History Project Brief: American Revolution",
+    "snippet": "American Revolution provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Wilson",
+    "lastModified": "2024-05-18T10:55:59Z",
+    "tags": [
+      "history",
+      "project-brief"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-078",
+    "title": "Art Lecture Notes: Sculpture Methods",
+    "snippet": "Sculpture Methods provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-06-10T10:55:59Z",
+    "tags": [
+      "art",
+      "lecture-notes"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-079",
+    "title": "Science Lecture Notes: Ecosystems",
+    "snippet": "Ecosystems provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2025-03-28T10:55:59Z",
+    "tags": [
+      "science",
+      "lecture-notes"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-080",
+    "title": "English Lecture Notes: Essay Writing Techniques",
+    "snippet": "Essay Writing Techniques provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2024-05-14T10:55:59Z",
+    "tags": [
+      "english",
+      "lecture-notes"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-081",
+    "title": "English Reading Material: Shakespeare's Macbeth",
+    "snippet": "Shakespeare's Macbeth provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-10-09T10:55:59Z",
+    "tags": [
+      "english",
+      "reading-material"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-082",
+    "title": "Art Homework: Art History Overview",
+    "snippet": "Art History Overview provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Wilson",
+    "lastModified": "2024-12-24T10:55:59Z",
+    "tags": [
+      "art",
+      "homework"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-083",
+    "title": "Art Exam Review: Art History Overview",
+    "snippet": "Art History Overview provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Wilson",
+    "lastModified": "2024-08-09T10:55:59Z",
+    "tags": [
+      "art",
+      "exam-review"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-084",
+    "title": "History Study Guide: Ancient Civilizations",
+    "snippet": "Ancient Civilizations provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-12-28T10:55:59Z",
+    "tags": [
+      "history",
+      "study-guide"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-085",
+    "title": "Science Lecture Notes: Ecosystems",
+    "snippet": "Ecosystems provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-03-28T10:55:59Z",
+    "tags": [
+      "science",
+      "lecture-notes"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-086",
+    "title": "Art Lecture Notes: Digital Illustration",
+    "snippet": "Digital Illustration provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2025-02-01T10:55:59Z",
+    "tags": [
+      "art",
+      "lecture-notes"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-087",
+    "title": "Science Study Guide: Cell Structure",
+    "snippet": "Cell Structure provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-09-23T10:55:59Z",
+    "tags": [
+      "science",
+      "study-guide"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-088",
+    "title": "English Study Guide: Modern Fiction",
+    "snippet": "Modern Fiction provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Prof. Davis",
+    "lastModified": "2024-07-03T10:55:59Z",
+    "tags": [
+      "english",
+      "study-guide"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-089",
+    "title": "Mathematics Assignment: Calculus I",
+    "snippet": "Calculus I provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-09-17T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "assignment"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-090",
+    "title": "English Assignment: Modern Fiction",
+    "snippet": "Modern Fiction provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-11-23T10:55:59Z",
+    "tags": [
+      "english",
+      "assignment"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-091",
+    "title": "Mathematics Exam Review: Calculus I",
+    "snippet": "Calculus I provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-07-11T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "exam-review"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-092",
+    "title": "Mathematics Reading Material: Probability and Statistics",
+    "snippet": "Probability and Statistics provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-08-18T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "reading-material"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-093",
+    "title": "Science Homework: Ecosystems",
+    "snippet": "Ecosystems provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-08-14T10:55:59Z",
+    "tags": [
+      "science",
+      "homework"
+    ],
+    "fileType": "txt"
+  },
+  {
+    "id": "doc-094",
+    "title": "Mathematics Reading Material: Quadratic Equations",
+    "snippet": "Quadratic Equations provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-10-05T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "reading-material"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-095",
+    "title": "History Exam Review: Industrial Revolution",
+    "snippet": "Industrial Revolution provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2025-04-30T10:55:59Z",
+    "tags": [
+      "history",
+      "exam-review"
+    ],
+    "fileType": "pdf"
+  },
+  {
+    "id": "doc-096",
+    "title": "Science Reading Material: Cell Structure",
+    "snippet": "Cell Structure provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Miller",
+    "lastModified": "2024-09-24T10:55:59Z",
+    "tags": [
+      "science",
+      "reading-material"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-097",
+    "title": "English Project Brief: Modern Fiction",
+    "snippet": "Modern Fiction provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-12-24T10:55:59Z",
+    "tags": [
+      "english",
+      "project-brief"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-098",
+    "title": "Mathematics Assignment: Quadratic Equations",
+    "snippet": "Quadratic Equations provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Ms. Smith",
+    "lastModified": "2024-05-20T10:55:59Z",
+    "tags": [
+      "mathematics",
+      "assignment"
+    ],
+    "fileType": "docx"
+  },
+  {
+    "id": "doc-099",
+    "title": "History Lab Report: Cold War",
+    "snippet": "Cold War provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Mr. Johnson",
+    "lastModified": "2024-12-29T10:55:59Z",
+    "tags": [
+      "history",
+      "lab-report"
+    ],
+    "fileType": "md"
+  },
+  {
+    "id": "doc-100",
+    "title": "History Exam Review: World War II",
+    "snippet": "World War II provides an overview of key concepts and includes examples to illustrate important principles.",
+    "author": "Dr. Brown",
+    "lastModified": "2024-05-09T10:55:59Z",
+    "tags": [
+      "history",
+      "exam-review"
+    ],
+    "fileType": "md"
+  }
+]
